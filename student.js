@@ -42,8 +42,7 @@ document.write("<br><br> Printing the details of the student object <br><hr>");
 document.write("Name: "  + studentDetails.studentName +" <br>");
 document.write("DOB: "  + studentDetails.DOB +" <br>");
 document.write("Skills: "  + studentDetails.skills +" <br>");
-document.write("Address: "  + studentDetails.address +" <br>");
-document.write("Address: <br> "  + "&nbsp;&nbsp;State: " + studentDetails.address.state +" <br>" + "&nbsp;&nbsp;City: " + studentDetails.address.city +" <br>" + "&nbsp;&nbsp;Country: " + studentDetails.address.country +" <br>" + "&nbsp;&nbsp;Pincode: " + studentDetails.address.pincode +" <br>");
+ document.write("Address: <br> "  + "&nbsp;&nbsp;State: " + studentDetails.address.state +" <br>" + "&nbsp;&nbsp;City: " + studentDetails.address.city +" <br>" + "&nbsp;&nbsp;Country: " + studentDetails.address.country +" <br>" + "&nbsp;&nbsp;Pincode: " + studentDetails.address.pincode +" <br>");
 document.write("Mother's Name: "  + studentDetails.motherName +" <br>");
 
 
